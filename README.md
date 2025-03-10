@@ -25,5 +25,5 @@ Skills Demonstrated:
 ✅ Data Cleaning & Preprocessing
 ✅ SQL Query Writing (Aggregations, Filtering, Grouping)
 ✅ Data Analysis with pandas
-✅ Data Visualization with matplotlib & seaborn
+✅ Data Visualization Power BI + matplotlib & seaborn
 ✅ Health Data Exploration and Risk Analysis
